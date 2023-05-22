@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948432649974",
+    "project_id": "babotalk-e402b",
+    "storage_bucket": "babotalk-e402b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948432649974:android:7b1489462ca0168de0f6d7",
+        "android_client_info": {
+          "package_name": "org.infosec2023.babotalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948432649974-969o9jcibcr7fnp7rqk860jtj4kh6f27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoq88C5hYbyb7vgTn_GN5N_1znHKuVE1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948432649974-969o9jcibcr7fnp7rqk860jtj4kh6f27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
